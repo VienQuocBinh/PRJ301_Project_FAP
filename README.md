@@ -45,6 +45,8 @@
  
     ![image](https://user-images.githubusercontent.com/91947000/147809072-4df9b22a-0820-4e43-a3d4-1802d1a883c0.png)
   
+* Register student info 
+
   - registerInfo.jsp: if accept then student is added to academic list, otherwise delete
 
       
@@ -58,6 +60,8 @@
     + Click CheckInformation, browse to academicInfo.jsp
   
   ![image](https://user-images.githubusercontent.com/91947000/147809201-06c6232d-c35d-4c59-9066-7cd41a7fea30.png)
+  
+* Academic student info  
   
   - academicInfo.jsp
   
